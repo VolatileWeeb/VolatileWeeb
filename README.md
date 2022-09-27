@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VolatileWeeb , a student and an aspiring web dev.
+- 👀 I’m interested in learning how things work.
+- 🌱 I’m currently learning everything Frontend.
+- 📫 How to reach me : volatileweeb@gmail.com / @LearnWithVola on twitter.
